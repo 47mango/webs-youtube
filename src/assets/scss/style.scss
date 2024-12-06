@@ -7,6 +7,10 @@
 @import "setting/mixin";
 @import "setting/common";
 
+// section
+@import "section/layout";
+
+
 // @charset "UTF-8"; : 이 부분은 문서의 문자 인코딩을 설정하는 것으로, 해당 SCSS 파일의 문자 인코딩이 UTF-8임을 나타냅니다.
 // @import "setting/fonts"; : 폰트 파일과 관련된 CSS를 설정합니다.
 // @import "setting/vars"; : 변수와 관련된 CSS를 설정합니다.
