@@ -1,8 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
 const Video = () => {
     return (
-        <div>Video</div>
+        <Main
+            title = "유튜브 비디오 영상"
+            description="포유튜브 비디오 영상 시청 가능!"
+        >Video</Main>
     )
 }
     

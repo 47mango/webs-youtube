@@ -1,8 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
 const Channel = () => {
     return (
-        <div>Channel</div>
+        <Main
+            title="채널 화면"
+            description="채널 화면이다"  
+        >Channel</Main>
     )
 }
     
