@@ -1,7 +1,6 @@
 import React from 'react'
 
 import { snsLink } from '../../../data/header'
-import { useLocation } from 'react-router-dom'
 
 
 const Sns = () => {
